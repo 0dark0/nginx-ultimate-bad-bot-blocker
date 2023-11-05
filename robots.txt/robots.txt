@@ -15,6 +15,12 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
+User-agent: CheckMarkNetwork
+Disallow: /
+User-agent: ICC-Crawler
+Disallow: /
+User-agent: IonCrawl
+Disallow: /
 User-agent: 01h4x.com
 Disallow:/
 User-agent: 360Spider
